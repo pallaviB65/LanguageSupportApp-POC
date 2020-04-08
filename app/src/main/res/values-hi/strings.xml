@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">भाषा समर्थन</string>
+
+    <string name="action_settings">समायोजन</string>
+    <string name="welcome">स्वागतम</string>
+    <string name="email">ईमेल पता</string>
+    <string name="password">पासवर्ड</string>
+    <string name="login">लॉगिन</string>
+    <string name="signup">खाता नहीं है? साइन अप करें</string>
+
+    <string name="hello">नमस्कार\nपरियोजना काम कर रहा है|</string>
+
+</resources>
