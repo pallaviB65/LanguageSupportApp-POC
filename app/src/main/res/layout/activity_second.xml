@@ -27,7 +27,7 @@
         android:id="@+id/rvID"
         android:layout_below="@+id/tvID"
         android:layout_marginTop="50dp">
-    <android.support.v7.widget.RecyclerView
+    <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvViews"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
