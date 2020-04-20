@@ -9,7 +9,8 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/tvID">
+        android:id="@+id/tvID"
+        android:visibility="gone">
     <TextView
         android:id="@+id/helloTV"
         android:layout_width="match_parent"

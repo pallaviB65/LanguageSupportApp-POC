@@ -30,8 +30,8 @@ public class SecondActivity extends BaseActivity implements MyRecyclerViewAdapte
                 getBaseContext().getResources().getDisplayMetrics());*/
         setContentView(R.layout.activity_second);
 
-        helloTV = findViewById(R.id.helloTV);
-        helloTV.setText(getApplicationContext().getResources().getString(R.string.hello));
+        /*helloTV = findViewById(R.id.helloTV);
+        helloTV.setText(getApplicationContext().getResources().getString(R.string.hello));*/
 
         // data to populate the RecyclerView with
         ArrayList<String> viewNames = new ArrayList<>();
