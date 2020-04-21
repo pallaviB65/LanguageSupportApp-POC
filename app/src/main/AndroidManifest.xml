@@ -19,7 +19,9 @@
         </activity>
         <activity android:name=".SecondActivity"
                   android:configChanges="screenSize|screenLayout|smallestScreenSize|orientation">
-
+            <layout
+                android:minHeight ="450dp"
+                android:minWidth ="300dp" />
         </activity>
     </application>
 
